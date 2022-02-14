@@ -2,6 +2,12 @@
 
 Esse repositório consiste em uma lista de afazeres feita com HTML, CSS e JavaScript.
 
+![image](https://user-images.githubusercontent.com/82117471/153889596-8e57487b-ad6f-4de6-891f-cbf6bca0298d.png)
+
+## 🔗 Antes de tudo, confira como ficou o projeto:
+
+https://to-do-list-saulobarbosa.netlify.app/
+
 ## 👨‍💻 Sobre o projeto:
 
 Como foi falado anteriormente, esse projeto consiste em uma lista de afazeres onde o usuário tem a alternativa de adicionar coisas para serem feitas e apagá-las assim que forem terminadas. Além do mais, os itens adicionados ficam salvos caso a página seja reiniciada ou fechada e aberta novamente.
